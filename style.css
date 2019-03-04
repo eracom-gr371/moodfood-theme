@@ -3,7 +3,7 @@ Theme Name: Moodfood
 Theme URI: https://github.com/eracom-gr371/moodfood-theme
 GitHub Theme URI: https://github.com/eracom-gr371/moodfood-theme
 Author: Cilia Mayor
-Author URI: 
+Author URI:
 Template: uku
 Description: Theme pour le site moodfood
 Version: 0.2
@@ -12,4 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 .p {
 	font-family: sans-serif;
+}
+.no-sidebar #primary {
+	width: 100%;
 }
