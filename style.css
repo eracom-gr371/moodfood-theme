@@ -11,10 +11,31 @@ License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
+
+
+/*
+Réglages des marges
+*/
 .no-sidebar .blog-wrap #primary {
 	width: 100%;
-
 }
+@media screen and (min-width: 85em) {
+  body.single-post.no-sidebar .entry-content,
+	body.single-post.no-sidebar .entry-footer,
+	body.single-post.no-sidebar .post-navigation,
+	body.page.no-sidebar .entry-header,
+	body.page.no-sidebar .entry-content,
+	body.page.no-sidebar .edit-link {
+		max-width: 1250px;
+		width: 1250px;
+	}
+}
+
+/*
+Réglages typographiques
+*/
+
+
 body .singlepost-wrap {
 font-family: 'Libre Baskerville', serif;
 }
