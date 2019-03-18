@@ -6,7 +6,7 @@ Author: Cilia Mayor
 Author URI:
 Template: uku
 Description: Theme pour le site moodfood
-Version: 0.2.4
+Version: 0.2.5
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -35,7 +35,31 @@ Réglages des marges
 Réglages typographiques
 */
 
-
+body,
 body .singlepost-wrap {
-font-family: 'Libre Baskerville', serif;
+	font-family: 'Libre Baskerville', serif;
+}
+.widget_mc4wp_form_widget input[type="email"], .widget_mc4wp_form_widget input[type="submit"], .jetpack_subscription_widget #subscribe-email input[type="email"], .jetpack_subscription_widget #subscribe-submit input[type="submit"], .contact-form input[type="submit"], input, textarea, .site-content div.wpcf7 input, .site-content div.wpcf7 textarea, .site-content div.wpcf7 p, a.standard-btn,
+.entry-summary,
+.big-instagram-wrap .null-instagram-feed .clear,
+.widget-area .widget,
+.big-newsletter-wrap .widget_mc4wp_form_widget h2.widget-title,
+input,
+.widget_search input.search-field,
+.entry-content p span.uppercase,
+.entry-content,
+.entry-content p,
+.entry-content blockquote,
+.entry-content blockquote p,
+.single-post .entry-content p,
+#commentform input#submit,
+.entry-content ul,
+.entry-content ol,
+.entry-header p.intro,
+input[type="submit"],
+h1.site-title, p.site-title, .entry-summary, .widget, .title-footer, .entry-header p.intro, .entry-content, .entry-content p, .entry-content table, .entry-content dl, .entry-content ul, .entry-content ol, p.section-about-text, p.text-big, p.text-small,
+.entry-content h5,
+.page .entry-content blockquote p,
+.uku-serif.single-product .entry-summary h1 {
+	font-family: 'Libre Baskerville', serif !important;
 }
