@@ -39,7 +39,7 @@ body,
 body .singlepost-wrap {
 	font-family: 'Libre Baskerville', serif;
 body .menu-item-137 {
-	color: red;
+	color: red !important;
 }
 
 .widget_mc4wp_form_widget input[type="email"], .widget_mc4wp_form_widget input[type="submit"], .jetpack_subscription_widget #subscribe-email input[type="email"], .jetpack_subscription_widget #subscribe-submit input[type="submit"], .contact-form input[type="submit"], input, textarea, .site-content div.wpcf7 input, .site-content div.wpcf7 textarea, .site-content div.wpcf7 p, a.standard-btn,
