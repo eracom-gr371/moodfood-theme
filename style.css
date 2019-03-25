@@ -39,9 +39,10 @@ body,
 body .singlepost-wrap {
 	font-family: 'Libre Baskerville', serif;
 	site-header-content,
-body .menu-item-137 {
-	color: #FF4C33;
-	}
+}
+
+ a, .entry-header h2.entry-title, .entry-header h2.entry-title a, #secondary h2.widget-title, #sidebar-page h2.widget-title, .entry-meta a, .entry-cats a, .uku-serif .entry-cats a:hover, input[type="submit"], .entry-content p a, .entry-content li a, .uku-serif .author-bio a, .uku-serif .comment-text a, .uku-serif #desktop-navigation ul li a:hover, .uku-serif .account-btn {
+ color: #8be145;
 }
 
 	
