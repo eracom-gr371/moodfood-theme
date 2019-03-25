@@ -6,7 +6,7 @@ Author: Cilia Mayor
 Author URI:
 Template: uku
 Description: Theme pour le site moodfood
-Version: 0.2.8
+Version: 0.2.9
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -39,8 +39,8 @@ body,
 body .singlepost-wrap {
 	font-family: 'Libre Baskerville', serif;
 	site-header-content,
-menu .menu-item-137 {
-	color: red;
+body .menu-item-137 {
+	color: #FF4C33;
 	}
 }
 
