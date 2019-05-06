@@ -40,12 +40,12 @@ body .singlepost-wrap {
 	font-family: 'Libre Baskerville', serif;
 	site-header-content,
 }
-
- a, .entry-header h2.entry-title, .entry-header h2.entry-title a, #secondary h2.widget-title, #sidebar-page h2.widget-title, .entry-meta a, .entry-cats a, .uku-serif .entry-cats a:hover, input[type="submit"], .entry-content p a, .entry-content li a, .uku-serif .author-bio a, .uku-serif .comment-text a, .uku-serif #desktop-navigation ul li a:hover, .uku-serif .account-btn {
+.page-item-2 a{
  color: #8be145;
-}
-
-	
+}	
+.page-item-2 a{
+ color: #8be145;
+}	
 .widget_mc4wp_form_widget input[type="email"], .widget_mc4wp_form_widget input[type="submit"], .jetpack_subscription_widget #subscribe-email input[type="email"], .jetpack_subscription_widget #subscribe-submit input[type="submit"], .contact-form input[type="submit"], input, textarea, .site-content div.wpcf7 input, .site-content div.wpcf7 textarea, .site-content div.wpcf7 p, a.standard-btn,
 .entry-summary,
 .big-instagram-wrap .null-instagram-feed .clear,
